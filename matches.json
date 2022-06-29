@@ -3,17 +3,17 @@
     "descricao":"Eliminatórias copa 2022",
     "local":{
       "nome":"Morumbi",
-      "imagem":"TODO"
+      "imagem":"https://p2.trrsf.com/image/fget/cf/1200/675/middle/images.terra.com/2022/01/24/1256159834-615ca5e80bc6d.jpeg"
     },
     "mandante":{
     "nome":"Brasil",
     "forca":"5",
-    "imagem":"TODO"
+    "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png"
     },
     "visitante":{
     "nome":"Argentina",
     "forca":"5",
-    "imagem":"TODO"
+    "imagem":"https://static.significados.com.br/foto/argentina.jpg"
     }
   }
 ]
